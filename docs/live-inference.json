@@ -1,0 +1,23 @@
+{
+  "answer": "The light-dependent reactions support the Calvin cycle by splitting water, releasing oxygen as a by-product, and producing ATP and NADPH, which carry energy to the Calvin cycle.",
+  "mode": "local_ai",
+  "model": "qwen2.5:0.5b",
+  "citations_present": false,
+  "usage": {
+    "input_tokens": 210,
+    "output_tokens": 36
+  },
+  "sources": [
+    {
+      "id": 3,
+      "text": "The Calvin cycle takes place in the stroma of the chloroplast. It uses carbon dioxide, ATP, and NADPH to build sugars. The Calvin cycle does not use light directly, but it depends on products made by the light-dependent reactions.",
+      "score": 5.1973
+    },
+    {
+      "id": 2,
+      "text": "The light-dependent reactions occur in the thylakoid membranes of chloroplasts. These reactions use sunlight to split water, releasing oxygen as a by-product. Light-dependent reactions produce ATP and NADPH, which carry energy to the next stage.",
+      "score": 2.4006
+    }
+  ],
+  "elapsed_seconds": 0.65
+}
